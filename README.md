@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning game desinging and coding
 - 💞️ I’m looking to collaborate on with coders
 - 📫 How to reach me email me junturamerri@gmail.com
+- sorry if my english is bad i am from finland
 
 <!---
 meripoika/meripoika is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
